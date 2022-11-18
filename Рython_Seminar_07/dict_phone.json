@@ -1,0 +1,32 @@
+{
+    "0": {
+        "name": "marta",
+        "surname": "erty",
+        "date_of_birth": "3.09.2012",
+        "workplace": "Bank",
+        "phone_number": [
+            "7641364926492",
+            "8371081381710"
+        ]
+    },
+    "1": {
+        "name": "serg",
+        "surname": "pshezd",
+        "date_of_birth": "05.12.1992",
+        "workplace": "pochta",
+        "phone_number": [
+            "7642716491711",
+            "7239213918391"
+        ]
+    },
+    "2": {
+        "name": "Aleksandr",
+        "surname": "Petrov",
+        "date_of_birth": "03.11.2002",
+        "workplace": "estore",
+        "phone_number": [
+            "3727263726372",
+            "273828278273823"
+        ]
+    }
+}

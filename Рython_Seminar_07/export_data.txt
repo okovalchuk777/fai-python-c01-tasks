@@ -1,0 +1,4 @@
+{'2': {'name': 'Aleksandr', 'surname': 'Petrov', 'date_of_birth': '03.11.2002', 'workplace': 'estore', 'phone_number': ['3727263726372', '273828278273823']}}
+key doesn't exist
+{'2': {'name': 'Aleksandr', 'surname': 'Petrov', 'date_of_birth': '03.11.2002', 'workplace': 'estore', 'phone_number': ['3727263726372', '273828278273823']}}
+{'2': {'name': 'Aleksandr', 'surname': 'Petrov', 'date_of_birth': '03.11.2002', 'workplace': 'estore', 'phone_number': ['3727263726372', '273828278273823']}}
