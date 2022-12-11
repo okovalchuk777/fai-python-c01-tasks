@@ -1,0 +1,75 @@
+2022-12-10 23:33:58+00:00,Aleksandr Kovalchuk,879576833,/hello
+2022-12-10 23:34:04+00:00,Aleksandr Kovalchuk,879576833,/check
+2022-12-10 23:34:18+00:00,Aleksandr Kovalchuk,879576833,/add 15 56
+2022-12-10 23:53:04+00:00,Aleksandr Kovalchuk,879576833,/hello
+<bound method Message.reply_text of Message(channel_chat_created=False, chat=Chat(first_name='Aleksandr', id=879576833, last_name='Kovalchuk', type=<ChatType.PRIVATE>), date=datetime.datetime(2022, 12, 10, 23, 53, 4, tzinfo=<UTC>), delete_chat_photo=False, entities=[MessageEntity(length=6, offset=0, type=<MessageEntityType.BOT_COMMAND>)], from_user=User(first_name='Aleksandr', id=879576833, is_bot=False, language_code='ru', last_name='Kovalchuk'), group_chat_created=False, message_id=23, supergroup_chat_created=False, text='/hello')>
+2022-12-11 00:11:12+00:00,Aleksandr Kovalchuk,879576833,/hello
+<bound method ExtBot.send_message of ExtBot()>
+2022-12-11 00:13:00+00:00,Aleksandr Kovalchuk,879576833,/hello
+chuchundra_777_bot
+2022-12-11 00:14:27+00:00,Aleksandr Kovalchuk,879576833,/hello
+chuchundra_777_bot,None
+2022-12-11 00:16:46+00:00,Aleksandr Kovalchuk,879576833,/hello
+chuchundra_777_bot,None,
+2022-12-11 00:17:49+00:00,Aleksandr Kovalchuk,879576833,/hello
+chuchundra_777_bot,None,Hello Aleksandr
+2022-12-11 00:19:01+00:00,Aleksandr,Kovalchuk,879576833,/hello
+chuchundra_777_bot,None,Hello Aleksandr
+2022-12-11 00:20:16+00:00,Aleksandr,Kovalchuk,879576833,/hello
+chuchundra_777_bot,None,5608756154,Hello Aleksandr
+2022-12-11 00:31:39+00:00,Aleksandr,Kovalchuk,879576833,/hello
+2022-12-11 02:31:40.249649,chuchundra_777_bot,None,5608756154,Hello Aleksandr
+2022-12-11 11:39:24+00:00,Aleksandr,Kovalchuk,879576833,/hello
+2022-12-11 23:38:00.857731,chuchundra_777_bot,None,5608756154,Hello Aleksandr
+2022-12-11 22:23:01+00:00,Aleksandr,Kovalchuk,879576833,/calc_help
+2022-12-12 00:23:01.785194,chuchundra_777_bot,None,5608756154,This is calc bot
+ Enter command /calc in order start
+ first enter the operation with two numbers (use a space to divide between digits and signs)
+ Press Enter and the first operation will be performed
+ then enter the sign and number through the space and press Enter and the calculator will work with the previous result
+ If you want to start new calculations, enter the command "/calc reset" and start again
+2022-12-11 22:32:43+00:00,Aleksandr,Kovalchuk,879576833,/calc + 4
+2022-12-11 22:33:48+00:00,Aleksandr,Kovalchuk,879576833,/calc + 4
+2022-12-11 22:44:11+00:00,Aleksandr,Kovalchuk,879576833,/calc + 4
+2022-12-12 00:44:12.299991,chuchundra_777_bot,None,5608756154,['/calc', '+', '4']
+2022-12-11 22:46:19+00:00,Aleksandr,Kovalchuk,879576833,/calc + 4
+2022-12-11 22:49:02+00:00,Aleksandr,Kovalchuk,879576833,/calc + 4
+2022-12-12 00:49:04.492460,chuchundra_777_bot,None,5608756154,['/calc', '+', '4']
+2022-12-11 22:57:28+00:00,Aleksandr,Kovalchuk,879576833,/calc + 100
+2022-12-12 00:57:29.328369,chuchundra_777_bot,None,5608756154,0 + 100 = 100
+2022-12-11 22:57:42+00:00,Aleksandr,Kovalchuk,879576833,/calc + 25
+2022-12-12 00:57:43.125449,chuchundra_777_bot,None,5608756154,100 + 25 = 125
+2022-12-11 22:57:51+00:00,Aleksandr,Kovalchuk,879576833,/calc - 10
+2022-12-12 00:57:52.304016,chuchundra_777_bot,None,5608756154,125 - 10 = 115
+2022-12-11 22:57:59+00:00,Aleksandr,Kovalchuk,879576833,/calc * 2
+2022-12-12 00:58:00.174131,chuchundra_777_bot,None,5608756154,115 * 2 = 230
+2022-12-11 22:58:13+00:00,Aleksandr,Kovalchuk,879576833,/calc / 2
+2022-12-12 00:58:13.437563,chuchundra_777_bot,None,5608756154,230 / 2 = 115.0
+2022-12-11 22:58:27+00:00,Aleksandr,Kovalchuk,879576833,/calc + 34
+2022-12-12 00:58:27.552302,chuchundra_777_bot,None,5608756154,115.0 + 34 = 149.0
+2022-12-11 23:02:57+00:00,Aleksandr,Kovalchuk,879576833,/calc + 65
+2022-12-12 01:02:58.048685,chuchundra_777_bot,None,5608756154,0 + 65 = 65
+2022-12-11 23:03:13+00:00,Aleksandr,Kovalchuk,879576833,/calc * 135
+2022-12-12 01:03:13.555359,chuchundra_777_bot,None,5608756154,65 * 135 = 8775
+2022-12-11 23:03:21+00:00,Aleksandr,Kovalchuk,879576833,/calc_reset
+2022-12-12 01:03:22.317771,chuchundra_777_bot,None,5608756154,Calculator reset
+2022-12-11 23:03:30+00:00,Aleksandr,Kovalchuk,879576833,/calc + 5
+2022-12-12 01:03:31.030293,chuchundra_777_bot,None,5608756154,0 + 5 = 5
+2022-12-11 23:03:41+00:00,Aleksandr,Kovalchuk,879576833,/calc_reset
+2022-12-12 01:03:41.741320,chuchundra_777_bot,None,5608756154,Calculator reset
+2022-12-11 23:09:00+00:00,Aleksandr,Kovalchuk,879576833,/calc_help
+2022-12-12 01:09:01.187248,chuchundra_777_bot,None,5608756154,This is calc bot
+ Enter command /calc in order start
+ first enter the operation with two numbers (use a space to divide between digits and signs)
+ Press Enter and the first operation will be performed
+ then enter the sign and number through the space and press Enter and the calculator will work with the previous result
+ If you want to start new calculations, enter the command "/calc_reset" and start again
+2022-12-11 23:09:12+00:00,Aleksandr,Kovalchuk,879576833,/calc 15 / 5
+2022-12-12 01:09:13.022107,chuchundra_777_bot,None,5608756154,15 / 5 = 3.0
+2022-12-11 23:09:26+00:00,Aleksandr,Kovalchuk,879576833,/calc +35
+2022-12-11 23:09:52+00:00,Aleksandr,Kovalchuk,879576833,/calc + 35
+2022-12-12 01:09:53.113511,chuchundra_777_bot,None,5608756154,3.0 + 35 = 38.0
+2022-12-11 23:10:01+00:00,Aleksandr,Kovalchuk,879576833,/calc_reset
+2022-12-12 01:10:01.714389,chuchundra_777_bot,None,5608756154,Calculator reset
+2022-12-11 23:11:11+00:00,Aleksandr,Kovalchuk,879576833,/calc 34 + 74
+2022-12-12 01:11:12.041228,chuchundra_777_bot,None,5608756154,34 + 74 = 108
